@@ -26,7 +26,7 @@ Step 4: Calculate the Cumulative density function (CDF) for each gray levels.
 
 SK= ∑ PK (rk)
 
-Step 5: Multiply SK  with (L-1) , where L = Number of gray levels = 2k
+Step 5: Multiply SK  with (L-1) , where L = Number of gray levels = 2^k
 k= number of bits.
 
 Step 6: Rounding off the values obtained in step 5.
