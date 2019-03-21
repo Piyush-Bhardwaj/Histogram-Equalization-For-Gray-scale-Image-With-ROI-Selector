@@ -1,4 +1,4 @@
-# Histogram-Equilization-For-Gray-scale-Image-With-ROI-Selector
+# Histogram-Equalization-For-Gray-scale-Image-With-ROI-Selector
 The histogram in image processing is the techniqu by which
 the occurrences of each intensity value in the image is shown. Normally, 
 the histogram is a graph showing the population of pixels in an image at each different 
